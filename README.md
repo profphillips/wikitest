@@ -5,4 +5,4 @@ This is a test
 
 More text...
 
-here is a link to (another page)[another.md]
+here is a link to [another page](another.md)
