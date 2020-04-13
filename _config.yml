@@ -1,8 +1,0 @@
-theme: 
-permalink: /:title/
-name: Wiki
-title: null
-github:
-  is_project_page: false
-plugins:
-  - jemoji
