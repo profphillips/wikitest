@@ -1,3 +1,9 @@
+@import "";
+
+header {
+  display: none;
+}
+
 body {
  // @include theme-colors(false);
   color: #00f;
